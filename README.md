@@ -1,1 +1,1 @@
-# remove-duplicate-line-bash
+Engga tau gabut aja, bash rd.sh
